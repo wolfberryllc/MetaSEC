@@ -1,4 +1,5 @@
 # MetaSEC: Secure data transfer Hyperledger & Ethereum. Available to work on any server.
+![Untitled-2](https://user-images.githubusercontent.com/21232416/209696375-b5104e01-27de-423d-b659-b6e85bf2d9f3.png)
 
 MetaSEC is designed to provide businesses and organizations with a secure and reliable way to transfer and store data. It is powered by Hyperledger Fabric, and Ethereum. The technology behind MetaSEC uses an innovative consensus algorithm that ensures reliable, confidential and secure data transfer and storage. It also includes a secure data management platform that provides users with a secure and efficient way to store and manage their data. Additionally, MetaSEC provides a secure and encrypted peer-to-peer network for data sharing and communication. The platform is highly secure and compliant with industry standards. MetaSEC also includes advanced security measures such as multi-factor authentication, encryption, and digital signature technology to ensure the secure transfer and storage of data.
 
