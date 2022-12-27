@@ -1,4 +1,4 @@
-# MetaSEC: Secure data transfer Hyperledger & Ethereum. Available to work on any server.
+# MetaSEC: Secure data transfer using Hyperledger & Ethereum. Available to work on any server.
 ![Untitled-2](https://user-images.githubusercontent.com/21232416/209697652-162a92b3-c20c-46e7-9044-c728ab11a1c2.png)
 
 
