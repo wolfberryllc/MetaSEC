@@ -1,9 +1,9 @@
-# MetaSEC: Secure data transfer using Hyperledger & Ethereum. Available to work on any server.
+# MetaSEC: Secure data transfer using Azure + (Hyperledger & Cardano)
 ![Untitled-2](https://user-images.githubusercontent.com/21232416/209715961-c980f805-0c30-46db-b94d-af9538191caa.png)
 
 
 
-MetaSEC is designed to provide businesses and organizations with a secure and reliable way to transfer and store data. It is powered by Hyperledger Fabric, and Ethereum. The technology behind MetaSEC uses an innovative consensus algorithm that ensures reliable, confidential and secure data transfer and storage. It also includes a secure data management platform that provides users with a secure and efficient way to store and manage their data. Additionally, MetaSEC provides a secure and encrypted peer-to-peer network for data sharing and communication. The platform is highly secure and compliant with industry standards. MetaSEC also includes advanced security measures such as multi-factor authentication, encryption, and digital signature technology to ensure the secure transfer and storage of data.
+MetaSEC is designed to provide businesses and organizations with a secure and reliable way to transfer and store data. It is powered by Azure + (Hyperledger & Cardano). The technology behind MetaSEC uses an innovative consensus algorithm that ensures reliable, confidential and secure data transfer and storage. It also includes a secure data management platform that provides users with a secure and efficient way to store and manage their data. Additionally, MetaSEC provides a secure and encrypted peer-to-peer network for data sharing and communication. The platform is highly secure and compliant with industry standards. MetaSEC also includes advanced security measures such as multi-factor authentication, encryption, and digital signature technology to ensure the secure transfer and storage of data.
 
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 
